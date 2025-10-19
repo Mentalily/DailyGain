@@ -1,0 +1,16 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Node.js / 前端项目依赖（可选，未来可能用）
+node_modules/
+
+# VScode 配置 & 临时文件
+.vscode/
+.history/
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
